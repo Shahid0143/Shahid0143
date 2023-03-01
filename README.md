@@ -1,8 +1,4 @@
 
-<!---
-Waseem49/Waseem49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div>
 <h2 align="center">
 Hi 👋, I am Shahid Raza. 
@@ -12,7 +8,7 @@ Hi 👋, I am Shahid Raza.
 A passionate full stack web developer from India
 </h2>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+MD+Waseem+Akram.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Shahid+Raza.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
@@ -23,9 +19,9 @@ A passionate full stack web developer from India
  🤔 Check Out my <a href="">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/waseem49">My Github Repositories</a><br><br>
+<a href="">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me mdwaseem0603@gmail.com
+ ⚡ How to reach me ssraza143@gmail.com.
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
