@@ -19,14 +19,14 @@ A passionate full stack web developer from India
  🤔 Check Out my <a href="">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="">My Github Repositories</a><br><br>
+<a href="https://github.com/Shahid0143?tab=repositories">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
  ⚡ How to reach me ssraza143@gmail.com.
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahid-raza-73b117216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
 </p>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -72,11 +72,11 @@ A passionate full stack web developer from India
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=waseem49&theme=github-dark"
+<img src="https://streak-stats.demolab.com?user=Shahid0143&theme=github-dark"
        alt="stats" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
