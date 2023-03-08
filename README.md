@@ -90,7 +90,7 @@ A passionate full stack web developer from India
  
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p> -->
-<img src="https://streak-stats.demolab.com/?user=shahid0143&theme=github-dark"
+<img src="https://streak-stats.demolab.com/?user=Shahid0143&theme=github-dark"
     alt="stats" /></a>
  
 
