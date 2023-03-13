@@ -45,9 +45,8 @@ A passionate full stack web developer from India
 
 <h2 align="center">📱 Connect With Me </h2>
 <br/>
-<div align="center"><a  href="https://www.linkedin.com/in/golu-gauraw-1b578b185" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/GauravV68699264" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:kavermaji89@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></div
+<div align="center"><a  href="https://www.linkedin.com/in/shahid-raza-73b117216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </div>
 <br/>
  <br/>
