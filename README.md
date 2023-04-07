@@ -1,6 +1,6 @@
 
 <!---
-Golugauraw1/Golugauraw1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shahid0143/Shahid0143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
@@ -15,7 +15,8 @@ A passionate full stack web developer from India
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Shahid+Raza.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
+ <a href="https://1999azzar.github.io/1999AZZAR/">
 <div>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
