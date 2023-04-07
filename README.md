@@ -12,11 +12,12 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">
 A passionate full stack web developer from India
 </h2>
+ <a href="https://Shahid0143.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Shahid+Raza.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
- <a href="https://1999azzar.github.io/1999AZZAR/">
+ 
 <div>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
