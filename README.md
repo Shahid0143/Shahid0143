@@ -24,7 +24,7 @@ A passionate full stack web developer from India
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1ACGVN4s0i_6wLrXgthp4ZTPjWSdbFj_7/view?usp=share_link">Resume</a><br><br>
- 📫  Know more about me <a href="https://shahid0143.github.io/">Portfolio</a><br><br>
+ 📫  Know more about me <a href="https://Shahid0143.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Shahid0143?tab=repositories">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
