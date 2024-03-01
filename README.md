@@ -23,7 +23,7 @@ A passionate full stack web developer from India
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/11wnjvDKD9S9F9VEUBTK1eaFchXc-X1ti/view?usp=drive_link">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1ZS1WNpOuDpVa_9PqesdGbB_O4F8bC_lJ/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://Shahid0143.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Shahid0143?tab=repositories">My Github Repositories</a><br><br>
@@ -32,19 +32,6 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <br />
  
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shahid-raza-73b117216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahid Raza" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://Shahid0143.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
-</p>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-
 <h2 align="center">📱 Connect With Me </h2>
 <br/>
 <div align="center"><a  href="https://www.linkedin.com/in/shahid-raza-73b117216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
